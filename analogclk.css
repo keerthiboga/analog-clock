@@ -10,7 +10,7 @@
     display:flex;
     justify-content: center;
     align-items: center;
-    background: url("/clkbackground2.png");
+    background: url("clkbackground2.png");
     background-size: cover;
 }
 
